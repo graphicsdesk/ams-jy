@@ -7,12 +7,220 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Princess Lyles, a Hamilton Heights resident, often finds herself calling 311, a hotline for non-emergency city services, while walking around her neighborhood with her two young children."
+          },
+          {
+            "type": "text",
+            "value": "Within a 10-block radius of her home on West 146th Street and Convent Avenue, there are roughly 14 housing communities supporting individuals transitioning out of drug abuse, homelessness, or other difficult situations. These types of housing communities are often referred to as “supportive housing.” Lyles said that when she walks around her block during the summer, she often calls the hotline to assist the individuals she encounters experiencing drug abuse symptoms."
+          },
+          {
+            "type": "text",
+            "value": "Now, as the city makes progress on its initiative to convert a Hamilton Heights medical center into another supportive housing project—initially proposed to the Department of Buildings <a href=\"https://www.columbiaspectator.com/city-news/2022/10/09/planned-demolition-of-harlem-medical-center-shocks-community/\">without Community Board 9 approval</a>—Lyles and her neighbors’ frustration towards the development is mounting, and so is their mobilization."
+          },
+          {
+            "type": "text",
+            "value": "“We have two children. Our neighborhood can’t take it,” Lyles said of the project, which many have described as secretive and illegal. “We have enough supportive housing, and it’s just not fair to this neighborhood.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>‘People are getting more active, involved, and upset’ </b>"
+          },
+          {
+            "type": "text",
+            "value": "According to a CB9 resolution from June 2023, the board was first made aware of the project in 2022 by a resident who reportedly noticed demolition on the site, which is located at 1727 Amsterdam Ave. and leased by New York City Health and Hospitals. A representative from New York City Health and Hospitals Corporation then told CB9, “I don’t think you are supposed to know about that yet.”"
+          },
+          {
+            "type": "text",
+            "value": "Because city policy requires numerous steps, such as a public hearing and an environmental review, before demolition begins, community members have been urging the city to halt the project for more than two years."
+          },
+          {
+            "type": "text",
+            "value": "[<i>Read more: </i><a href=\"https://www.columbiaspectator.com/city-news/2023/02/16/despite-community-backlash-planned-redevelopment-of-harlem-medical-center-continues/\">Despite community backlash, planned redevelopment of Harlem medical center continues</a>]"
+          },
+          {
+            "type": "text",
+            "value": "A recent development in the project has renewed community opposition to it: a Feb. 13 land use application, submitted to the City Council to transfer the city-owned site to Health and Hospitals. It intends to do so by amending a 1970 operating agreement between the city and NYCHHC. Many community members believe that the city submitted the land use application to avoid the Uniform Land Use Review Process, which allows for transparency and public input in city developments."
+          },
+          {
+            "type": "text",
+            "value": "After the subcommittee on landmarks, public sitings, and dispositions held a public hearing for the item on Feb. 26—allegedly without widespread public notice—the West Harlem Community Preservation Organization hosted a community meeting on March 8 to inform residents in the neighborhood of the proposed transfer."
+          },
+          {
+            "type": "text",
+            "value": "Since then, community leaders have mobilized residents to send letters to local elected officials, especially District 7 City Council member Shaun Abreu, CC ’14, who has openly supported the new supportive housing project. They are advocating against the transfer and stressing the importance of the Uniform Land Use Reform Procedure."
+          },
+          {
+            "type": "text",
+            "value": "While an NYCHHC representative wrote in an email to Spectator that the “assertion that NYC Health + Hospitals is trying to avoid the ULURP process is false,” the city council removed the 1727 Amsterdam Avenue lot from the land use application on March 11. Following the letter-writing campaign and the submission of public testimony to the city council, the council passed the package of land use applications on March 26, excluding the Hamilton Heights lot."
+          },
+          {
+            "type": "text",
+            "value": "“We are very grateful to all the members of the public who took the time to submit testimony to the Council,” Barry Weinberg, CC ’12, vice chair of CB9, wrote in a statement to Spectator following the vote. “We are committed to continuing to work with our neighbors and our elected officials to make sure the project goes through the legally-required Uniform Land Use Review Procedure specified by the City Charter.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>‘Why do they feel they can get away with this here?’</b>"
+          },
+          {
+            "type": "text",
+            "value": "For Weinberg, the major issue with the development is the city’s illegal rollout of the project, which he said was likely motivated by the neighborhood’s demographics. He cited a tendency for the city to disproportionately place these developments onto largely Black and working-class communities."
+          },
+          {
+            "type": "text",
+            "value": "Black and Latine residents make up a majority of Hamilton Heights’ population, and the median yearly income is $34,066, according to census data."
+          },
+          {
+            "type": "text",
+            "value": "The new supportive housing project, which has already been named “Hill Top Apartments,” is slated to be in a neighborhood where there are already more than a dozen housing communities offering similar services."
+          },
+          {
+            "type": "text",
+            "value": "“We have supportive housing half a block away. We have a drug treatment center a half a block away. We have potential supportive housing two blocks down. So we would look at doing something different,” Victor Edwards, chair of CB9, said in an interview with Spectator. Edwards emphasized that if CB9 was initially involved in the development, they would have addressed community concerns."
+          },
+          {
+            "type": "text",
+            "value": "Residents have also raised alarms about child safety, pointing to the many centers for young children, such as schools, libraries, and daycare centers, that are located near the prospective housing development."
+          },
+          {
+            "type": "text",
+            "value": "“This community already has the brunt of these types of facilities in the city, and it’s not fair,” Lyles, whose children go to school across the street from the site, said."
+          },
+          {
+            "type": "text",
+            "value": "Edwards views this pattern as a result of residents in white and upper-class neighborhoods rejecting these sites in their communities. He believes these rejections have led the city’s nonprofit apartment developer, Bowery Residents’ Committee, to place the housing in an area where real estate is less expensive and where they believed community resistance would be less widespread or organized, Edwards said."
+          },
+          {
+            "type": "text",
+            "value": "“You can’t do illegal things in West Harlem just because our community is low-income and predominantly Black and Latino,” Weinberg said. “That’s not a valid reason to behave illegally.”"
+          },
+          {
+            "type": "text",
+            "value": "Both Edwards and Lyles said that their opposition to the housing is not a “not in my backyard” tactic, but rather a push for a more equitable distribution of these sites."
+          },
+          {
+            "type": "text",
+            "value": "[INSERT GRAPHIC]"
+          },
+          {
+            "type": "text",
+            "value": "People who have experienced homelessness—many of whom have also experienced mental health and substance abuse issues—contribute no more than 30 percent of their income toward rent in supportive housing. According to NYCHHC, the “Hill Top Apartments” is slated to have around 200 units, with 140 set to be permanent supportive housing for those experiencing homelessness. The remaining 60 units will be affordable housing. The NYCHHC has also claimed that 20 percent of the units will be reserved for residents of CB9."
+          },
+          {
+            "type": "text",
+            "value": "“NYC Health + Hospitals is proud to use its land to create affordable and supportive housing for New Yorkers, because we know that stable housing makes it easier to manage a person’s health,” Stephanie Buhle, first deputy press secretary of NYCHHC, wrote in a statement to Spectator. “Since 2022 when we began this process, NYC Health + Hospitals, and its partner Bowery Residents Committee, have been in regular communication with the Community Board and other key stakeholders. We continue to be grateful for the support of community partners and leaders as we work together to address a dire need for affordable housing in the community.”"
+          },
+          {
+            "type": "text",
+            "value": "While community leaders and residents say they are in favor of more affordable housing in the neighborhood, they remain skeptical of the Bowery Residents’ Committee’s limited history in the area. They are also unconvinced that the housing will have a greater impact on the community than the existing medical services provided at the site."
+          },
+          {
+            "type": "text",
+            "value": "“I am on the board of Broadway Housing Communities,” Lyles said, describing her support for affordable housing initiatives. “They do amazing work. In their development project on 155th, there’s a museum for children, there’s a preschool, and it is really housing that is uplifting, and for families. That is completely fine. Why would you bring a developer that no one knows, that has not done a project in this area?”"
+          },
+          {
+            "type": "text",
+            "value": "Since their advocacy against the new supportive housing development began, CB9 has pointed to the Bowery Residents’ Committee’s portfolio as evidence of their limited experience in affordable housing. Housing exclusively reserved for homeless people comprises 75 percent of their portfolio. Board members have also stated that the Committee’s lack of history of operations in West Harlem has further soured their relationship with the community."
+          },
+          {
+            "type": "text",
+            "value": "Lois Penny, a longtime Hamilton Heights resident and member of Concerned Citizens for Better Harlem, said that she and her community have alternatively proposed that the city add low-income housing to the site while preserving the medical facilities."
+          },
+          {
+            "type": "text",
+            "value": "“I’m not opposed to people that need help getting help,” Penny said. “They should get help, but we can’t concentrate everything in one community.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>Losing a medical center and continuing the fight</b>"
+          },
+          {
+            "type": "text",
+            "value": "The existing medical center at the planned site for the supportive housing development primarily houses the Emma L. Bowen Community Center, offering mental health services, addiction treatment, and food distribution, and the Heritage Health Center, which includes a women, infants, and children office, a food pantry, and a childcare center. Both have served the community since the 1970s."
+          },
+          {
+            "type": "text",
+            "value": "Many residents not only worry about the medical impact of the loss of these services but are also emotional to see the historic community pillars go."
+          },
+          {
+            "type": "text",
+            "value": "While Heritage Health Center is set to be <a href=\"https://www.columbiaspectator.com/city-news/2024/01/31/court-proceedings-concerning-heritage-health-center-eviction-set-to-begin-next-month/\">evicted</a> from the site, the NYCHHC has planned to set aside 17,000 square feet of the supportive housing apartments to the Bowen Center, which many say is not enough."
+          },
+          {
+            "type": "text",
+            "value": "According to community organizers, if the original land use application including the Hamilton Heights lot had passed, the community could have permanently lost these services by as early as this June."
+          },
+          {
+            "type": "text",
+            "value": "But to Weinberg, this loss of services is already happening."
+          },
+          {
+            "type": "text",
+            "value": "“The physicians found out about this project in 2022 and they left,” Weinberg said at the March 8 community meeting. “They went to find a job where they were required to have some stability. My neighbors, who are immigrants, don’t speak English very well, and they certainly don’t trust physicians, the physicians at the site earned their trust over many years, and then they lost them. They’re gone.”"
+          },
+          {
+            "type": "text",
+            "value": "As the community hits its third year fighting to halt the development, Weinberg encouraged residents at the meeting to continue to organize."
+          },
+          {
+            "type": "text",
+            "value": "However, according to a letter Weinberg sent to NYCHHC’s president in June 2023, if CB9 had been involved in the process from the start, not only could the board have made clear their preference for more affordable housing units and a prioritization of the existing medical services, but this would have also allowed for the Uniform Land Use Review Procedure to have been completed in these same three years."
+          },
+          {
+            "type": "text",
+            "value": "“It could have stopped three years ago,” Weinberg said."
+          },
+          {
+            "type": "text",
+            "value": "Nevertheless, Weinberg specifically called on community members to “vote in this democratic primary for someone who will listen and who will ask to engage the process for this site.”"
+          },
+          {
+            "type": "text",
+            "value": "“I met with Mayor Adams in December or November about this project, and he was at the very least willing to talk about it,” Weinberg said. “He asked questions, he showed interest. He did not dismiss the community’s concerns.”"
+          },
+          {
+            "type": "text",
+            "value": "Many have criticized Abreu for continuing to support the development despite constituent opposition. While the council member was not present at the meeting, a representative from his office spoke to the community, saying that “nothing is set in stone yet.”"
+          },
+          {
+            "type": "text",
+            "value": "A spokesperson for Abreu’s office did not respond to multiple requests for comment."
+          },
+          {
+            "type": "text",
+            "value": "Lyles, who criticized Abreu during the meeting, said she’s committed to continuing to speak out."
+          },
+          {
+            "type": "text",
+            "value": "“They think that we’re not going to say anything. They think that they can just push things through, nothing’s going to happen and we will just move right along,” Lyles said. “And I think they get surprised once communities rise up and say no, no, no more. This is not acceptable.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Editor Tsehai Alfred can be contacted at </i><i>tsehai.alfred@columbiaspectator.com</i><i> Follow her on X </i><a href=\"https://x.com/tsehaialfred?lang=en\"><i>@TsehaiAlfred.</i></a><i> </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Jenny Ye can be contacted at </i><a href=\"mailto:jenny.ye@columbiaspectator.com\"><i>jenny.ye@columbiaspectator.com</i></a><i>. </i><i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Hamilton Heights residents were surprised by a supportive housing development three years ago. They’re still fighting for public review.",
+        "dek": "After the city submitted a land use application on Feb. 13, avoiding the public’s input, community members urged the City Council to remove it—and they did.",
+        "date": "April 2, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/tsehai-alfred/\">Tsehai Alfred</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/jenny-ye/\">Jenny Ye</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IYEZ3SBQ4FFRLM2K4J3EQAK3GQ.jpg",
+        "cover_caption": "Judy Goldstein / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1ZalLBGO_0_D_fl7D4D-s-UiVQ-wnD9RfHYVq22toysE/edit?usp=sharing"
       }
     }
   }
