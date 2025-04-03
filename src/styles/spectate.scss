@@ -52,6 +52,16 @@ body {
   margin: 0;
 }
 
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+iframe {
+  border: none;
+}
+
 h1,
 p {
   -webkit-font-smoothing: antialiased;
@@ -159,6 +169,7 @@ b {
 #headline {
   max-width: unset !important;
 }
+
 
 
 .cover-caption {
